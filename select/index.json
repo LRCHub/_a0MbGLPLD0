@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Professionalism",
+  "base_artist": "ALI",
+  "createdAt": "2026-02-19T17:11:17.000368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Professionalism",
+      "artist": "ALI",
+      "has_synced": false,
+      "path": "select/01_Professionalism_ALI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Professionalism",
+      "artist": "ALI feat. 般若",
+      "has_synced": true,
+      "path": "select/02_Professionalism_ALI_feat._般若.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Professionalism",
+      "artist": "ALI, Hannya",
+      "has_synced": true,
+      "path": "select/03_Professionalism_ALI,_Hannya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Professionalism (feat. Hannya)",
+      "artist": "ALI",
+      "has_synced": true,
+      "path": "select/04_Professionalism_(feat._Hannya)_ALI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ALI - Professionalism feat. 般若",
+      "artist": "ALI",
+      "has_synced": false,
+      "path": "select/05_ALI_-_Professionalism_feat._般若_ALI.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Professionalism",
+      "artist": "ALI Feat. 般若",
+      "has_synced": true,
+      "path": "select/06_Professionalism_ALI_Feat._般若.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Professionalism (feat. Gaeko)",
+      "artist": "Homies",
+      "has_synced": false,
+      "path": "select/07_Professionalism_(feat._Gaeko)_Homies.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Professionalism (feat.般若)",
+      "artist": "ALI",
+      "has_synced": false,
+      "path": "select/pl_01_Professionalism_(feat.般若)_ALI.txt"
+    }
+  ]
+}
